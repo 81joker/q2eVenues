@@ -2,6 +2,6 @@
 
 
 ### Install Laravel
-```bash
+```laravel
  install Laravel 8
 ```
